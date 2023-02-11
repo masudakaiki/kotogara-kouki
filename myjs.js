@@ -1,4 +1,4 @@
-function imgchange() {document.getElementById('photo').src ="./image/abm00035545.png";}
+function imgchange1() {document.getElementById('photo').src ="./image/abm00035545.png";}
 function imgchange2() {document.getElementById('photo').src ="./image/abm00047209.jpg";}
 function imgchange3() {document.getElementById('photo').src ="./image/abm00035545.png";}
 function imgchange4() {document.getElementById('photo').src ="./image/abm00047209.jpg";}
@@ -9,7 +9,7 @@ function imgchange8() {document.getElementById('photo').src ="./image/abm0004720
 function imgchange9() {document.getElementById('photo').src ="./image/abm00035545.png";}
 function imgchange10() {document.getElementById('photo').src ="./image/abm00047209.jpg";}
 function imgchange11() {document.getElementById('photo').src ="./image/abm00035545.png";}
-function imgchang12() {document.getElementById('photo').src ="./image/abm00047209.jpg";}
+function imgchange12() {document.getElementById('photo').src ="./image/abm00047209.jpg";}
 function imgchange13() {document.getElementById('photo').src ="./image/abm00035545.png";}
 function imgchange14() {document.getElementById('photo').src ="./image/abm00047209.jpg";}
 function imgchange15() {document.getElementById('photo').src ="./image/abm00035545.png";}
