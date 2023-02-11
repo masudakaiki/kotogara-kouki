@@ -35,12 +35,12 @@ function imgchange34() {document.getElementById('photo').src ="./image/033 (1).j
 function nazo1() {if (document.getElementById('answer1').value = '見え猿')
 {greeting = "正解！";} else {greeting = "不正解";}
 {alert(greeting);}}
-function answer1(){alert('見え猿');}
-function nazo2() {if (document.getElementById('answer1').value = '変若水')
+function answer1-0(){alert('見え猿');}
+function nazo2() {if (document.getElementById('answer2').value = '変若水')
 {greeting = "正解！";} else {greeting = "不正解";}
 {alert(greeting);}}
-function answer2(){alert('変若水');}
-function nazo3() {if (document.getElementById('answer1').value = '拝涙')
+function answer2-0(){alert('変若水');}
+function nazo3() {if (document.getElementById('answer3').value = '拝涙')
 {greeting = "正解！";} else {greeting = "不正解";}
 {alert(greeting);}}
-function answer3(){alert('拝涙');}
+function answer3-0(){alert('拝涙');}
