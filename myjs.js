@@ -32,3 +32,12 @@ function imgchange31() {document.getElementById('photo').src ="./image/031.jpg";
 function imgchange32() {document.getElementById('photo').src ="./image/031 (1).jpg";}
 function imgchange33() {document.getElementById('photo').src ="./image/033.jpg";}
 function imgchange34() {document.getElementById('photo').src ="./image/033 (1).jpg";}
+function nazo1() {if (document.getElementById('answer1').value = '見え猿')
+{alert('正解!');} else {alert('不正解');}}
+function answer1(){alert('見え猿');}
+function nazo2() {if (document.getElementById('answer1').value = '変若水')
+{alert('正解!');} else {alert('不正解');}}
+function answer2(){alert('変若水');}
+function nazo3() {if (document.getElementById('answer1').value = '拝涙')
+{alert('正解!');} else {alert('不正解');}}
+function answer3(){alert('拝涙');}
