@@ -2,7 +2,8 @@ body { background-color: black;
 text: white; a:link: #00ffff;
 a:active: #00ffff;
 a:visited:#4169e1;}
-h1 { color: white;border: ridge 10px #636363; }
+h1 { color: white;border: ridge 10px #636363;}
+h3 { color: white;}
 center{ text-align:center;}
 
   
